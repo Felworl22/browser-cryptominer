@@ -32,5 +32,3 @@ I shared more on this topic at [this page](https://browser-crypto.herokuapp.com/
 Other cool resource on the same topic:
 - [Browser as Botnet](https://www.youtube.com/watch?v=GcXfu-EAECo) talk given at the Radical Networks in 2017
 - [Million Browser Botnet](https://www.youtube.com/watch?v=ERJmkLxGRC0) talk given at Black Hat 2013
-
-
